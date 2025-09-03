@@ -46,6 +46,6 @@ googletrans (for translations)
 
 ---
 
-###🤝 Contributing
+🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!llows users to translate text between multiple languages using a reliable translation API.
